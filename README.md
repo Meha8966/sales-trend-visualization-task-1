@@ -10,3 +10,5 @@
 <img width="1086" height="293" alt="Image" src="https://github.com/user-attachments/assets/a086a3d5-7742-45d8-a52f-c599f82c1cfa" />
 <img width="1176" height="644" alt="Image" src="https://github.com/user-attachments/assets/e06580c7-371a-46fc-8213-084e6cb9da70" />
 <img width="1123" height="652" alt="Image" src="https://github.com/user-attachments/assets/65483f50-32ef-451a-b5f4-4dfe4c030777" />
+# OBJECTIVE
+The main objective of this project is to analyze and visualize sales data using data analytics techniques. The project helps in understanding sales performance, profit trends, regional sales distribution, and top-selling products through charts and dashboards. It also aims to improve decision-making using data visualization tools like Python and Power BI.
