@@ -6,6 +6,7 @@
 # PROJECT 1: sales-trend-visualization
 # INTERN PERIOD: 17TH MAY-14JUNE
 
+# OUTPUT
 <img width="1129" height="693" alt="Image" src="https://github.com/user-attachments/assets/99c2d4e1-030e-4d1e-9176-f0e9c3a3473a" />
 <img width="1111" height="646" alt="Image" src="https://github.com/user-attachments/assets/b212f323-9aa2-4cca-a994-90840c897e1b" />
 <img width="794" height="295" alt="Image" src="https://github.com/user-attachments/assets/326967fb-766b-435e-bd49-59e002edc1e4" />
